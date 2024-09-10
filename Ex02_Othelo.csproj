@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>C24_Ex02_Adar_208545285</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Ex02.ConsoleUtils">
+        <HintPath>..\..\..\Desktop\Home\Computer_Science\Third_year\Csharp_course\Assignments\Ex02.ConsoleUtils.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

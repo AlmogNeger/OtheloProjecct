@@ -1,0 +1,42 @@
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.exe
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.deps.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.runtimeconfig.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfoInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfo.cs
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\refint\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.genruntimeconfig.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\ref\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.exe
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.deps.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.runtimeconfig.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfoInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfo.cs
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\refint\Ex02_Othelo.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.genruntimeconfig.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\ref\Ex02_Othelo.dll
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.exe
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.deps.json
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.runtimeconfig.json
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.dll
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\bin\Debug\net7.0\Ex02_Othelo.pdb
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfoInputs.cache
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.AssemblyInfo.cs
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.dll
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\refint\Ex02_Othelo.dll
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.pdb
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\Ex02_Othelo.genruntimeconfig.cache
+C:\hit\C24 Ex02 AdarAzulay 208545285 AlmogNeger 314938812\C24 Ex02 Adar 208545285 Almog 314938812\C24 Ex02 Adar 208545285\obj\Debug\net7.0\ref\Ex02_Othelo.dll

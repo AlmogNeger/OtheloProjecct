@@ -1,0 +1,31 @@
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/C24 Ex02 Adar 208545285
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/C24 Ex02 Adar 208545285.deps.json
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/C24 Ex02 Adar 208545285.runtimeconfig.json
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/C24 Ex02 Adar 208545285.dll
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/C24 Ex02 Adar 208545285.pdb
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/bin/Debug/net7.0/Ex02.ConsoleUtils.dll
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.csproj.AssemblyReference.cache
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.AssemblyInfoInputs.cache
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.AssemblyInfo.cs
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.csproj.CoreCompileInputs.cache
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.csproj.CopyComplete
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.dll
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/refint/C24 Ex02 Adar 208545285.dll
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.pdb
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/C24 Ex02 Adar 208545285.genruntimeconfig.cache
+/Users/adaraz/RiderProjects/C24 Ex02 Adar 208545285/C24 Ex02 Adar 208545285/obj/Debug/net7.0/ref/C24 Ex02 Adar 208545285.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\C24 Ex02 Adar 208545285.exe
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\C24 Ex02 Adar 208545285.deps.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\C24 Ex02 Adar 208545285.runtimeconfig.json
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\C24 Ex02 Adar 208545285.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\bin\Debug\net7.0\C24 Ex02 Adar 208545285.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.AssemblyInfoInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.AssemblyInfo.cs
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.csproj.CoreCompileInputs.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\refint\C24 Ex02 Adar 208545285.dll
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.pdb
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\C24 Ex02 Adar 208545285.genruntimeconfig.cache
+C:\Users\Almog.Neger\Downloads\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\C24 Ex02 Adar 208545285\obj\Debug\net7.0\ref\C24 Ex02 Adar 208545285.dll

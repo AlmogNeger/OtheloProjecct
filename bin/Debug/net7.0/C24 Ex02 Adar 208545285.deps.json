@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C24 Ex02 Adar 208545285/1.0.0": {
+        "runtime": {
+          "C24 Ex02 Adar 208545285.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C24 Ex02 Adar 208545285/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
